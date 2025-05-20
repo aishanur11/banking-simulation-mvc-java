@@ -1,1 +1,1 @@
-# banking-simulation-mvc-java
+Developed a Java-based banking game using the Model-View-Controller (MVC) pattern. Built core features like deposits, withdrawals, and balance tracking with a separate controller and view. Applied OOP principles and tested functionality with custom test classes.
